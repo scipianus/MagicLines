@@ -1,0 +1,12 @@
+C:\Users\Ciprian\Desktop\MagicLines\MagicLines\bin\Debug\MagicLines.exe.config
+C:\Users\Ciprian\Desktop\MagicLines\MagicLines\bin\Debug\MagicLines.exe
+C:\Users\Ciprian\Desktop\MagicLines\MagicLines\bin\Debug\MagicLines.pdb
+C:\Users\Ciprian\Desktop\MagicLines\MagicLines\obj\Debug\MagicLines.csprojResolveAssemblyReference.cache
+C:\Users\Ciprian\Desktop\MagicLines\MagicLines\obj\Debug\MagicLines.Form1.resources
+C:\Users\Ciprian\Desktop\MagicLines\MagicLines\obj\Debug\MagicLines.Properties.Resources.resources
+C:\Users\Ciprian\Desktop\MagicLines\MagicLines\obj\Debug\MagicLines.csproj.GenerateResource.Cache
+C:\Users\Ciprian\Desktop\MagicLines\MagicLines\obj\Debug\MagicLines.exe
+C:\Users\Ciprian\Desktop\MagicLines\MagicLines\obj\Debug\MagicLines.pdb
+C:\Users\Ciprian\Desktop\MagicLines\MagicLines\obj\Debug\MagicLines.Form2.resources
+C:\Users\Ciprian\Desktop\MagicLines\MagicLines\obj\Debug\MagicLines.Form3.resources
+C:\Users\Ciprian\Desktop\MagicLines\MagicLines\obj\Debug\MagicLines.Form4.resources
